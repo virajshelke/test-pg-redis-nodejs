@@ -1,0 +1,25 @@
+{
+  "name": "test-pg-redis-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virajshelke/test-pg-redis-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virajshelke/test-pg-redis-nodejs/issues"
+  },
+  "homepage": "https://github.com/virajshelke/test-pg-redis-nodejs#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "ioredis": "^5.0.4",
+    "knex": "^2.0.0",
+    "pg": "^8.7.3"
+  }
+}
